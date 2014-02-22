@@ -114,7 +114,29 @@ It's possible to use the built in USB Serial port, but both main.cpp and plat.cp
 
 Just type Python at the prompt:
 
-
-
     this .. that .. 
 
+#OTHEER
+
+http://embeddedpython.org/index.php?title=The_Owl_Embedded_Python_System
+
+The release combines work from:
+
+    Dean Hall's Python-on-a-Chip
+    libffi
+    Python 2.7
+    libopencm3
+    Texas Instruments Stellaris Driverlib 
+
+
+title1
+======
+
+title2
+------
+
+line
+
+-----
+
+line
