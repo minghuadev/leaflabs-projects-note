@@ -118,6 +118,8 @@ Just type Python at the prompt:
 
 #OTHEER
 
+### Owl
+
 http://embeddedpython.org/index.php?title=The_Owl_Embedded_Python_System
 
 The release combines work from:
@@ -127,6 +129,14 @@ The release combines work from:
     Python 2.7
     libopencm3
     Texas Instruments Stellaris Driverlib 
+
+### Embedded Python
+
+https://wiki.python.org/moin/EmbeddedPython
+
+* CPython
+* PyMite, Tiny Python
+* MyHDL, WhatOS
 
 
 title1
