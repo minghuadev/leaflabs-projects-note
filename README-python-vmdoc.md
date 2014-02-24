@@ -1,4 +1,3 @@
-
 ### Stackoverflow QnA
 
 http://stackoverflow.com/questions/682675/python-virtual-machines-architecture-diagrams-references
@@ -21,6 +20,10 @@ If that's too low level for you, try
 http://legacy.python.org/dev/peps/pep-0339/
 
 
+### Other: Search for python vm specification
 
+#### PEP 330 Phtyon Bytecode Verification
+
+http://legacy.python.org/dev/peps/pep-0330/
 
 
